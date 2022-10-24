@@ -1,2 +1,4 @@
 # SCU_Database
-The homework of database.
+姓名：张则灵
+
+学号：2020141460124
