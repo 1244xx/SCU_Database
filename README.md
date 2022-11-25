@@ -2,6 +2,23 @@
 姓名：张则灵
 
 学号：2020141460124
+# 编程作业1运行结果
+build:
+
+![build](./res/p1/build.png)
+
+Extendible_Hash_Table:
+
+![Extendible_Hash_Table](./res/p1/Extendible_Hash_Table.png)
+
+LRU_Page_Replacement_Policy:
+
+![LRU_Page_Replacement_Policy](./res/p1/LRU_Page_Replacement_Policy.png)
+
+Buffer_Pool_Manager:
+
+![Buffer_Pool_Manager](./res/p1/Buffer_Pool_Manager.png)
+
 # 作业1运行结果
 Q1_STRING_FUNCTION:
 
