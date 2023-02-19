@@ -2,6 +2,14 @@
 姓名：张则灵
 
 学号：2020141460124
+
+# 编程作业2运行结果
+build:
+![b_plus_tree_test0](./res/p2/b_plus_tree_test0.png)
+
+B_Plus_Tree:
+![b_plus_tree_test1](./res/p2/b_plus_tree_test1.png)
+
 # 编程作业1运行结果
 build:
 
