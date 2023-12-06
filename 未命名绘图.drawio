@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T14:13:17.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="wRuVkyHk1kjON0i_Yb1L" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T15:58:34.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="fJnv7Mu2GIEbS0GtQ7Td" version="22.1.6" type="github">
   <diagram name="第 1 页" id="nqBYt8XRyRXi-smnCU_f">
-    <mxGraphModel dx="719" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,24 @@
         </mxCell>
         <mxCell id="IDTF2Mk35RaXu3-9uh4A-155" value="退货暂存区5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="417" y="663" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-2" value="立体仓储区1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="904" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-3" value="分拣区2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="904" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-4" value="发货区3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-5" value="包装区6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="904" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-6" value="行政办公区4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LDN2YSobrnm-0MDV4Cg-7" value="退货暂存区5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="964" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
